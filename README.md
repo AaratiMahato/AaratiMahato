@@ -43,7 +43,8 @@
 
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AaratiMahato&theme=radical&border=7F3FBF&background=0D1117" alt="Aarati's GitHub streak"/>
+  <a href="https://github.com/AaratiMahato">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaratiMahato&theme=radical&border=7F3FBF&background=0D1117" alt="Aarati's GitHub streak"/>
   </a>
 </p>
 
