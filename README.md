@@ -2,10 +2,12 @@
   <a href="https://github.com/itsLuffie"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F71E&random=false&width=435&lines=Hi+There+👋,+It's+me+Aarati+Mahato"></a>
 </h1>
 
+<!-- Profile Image -->
+<p align="center"><img alt="User Avatar" src="image.jpg" width="845px"/>
+</p><br>
 
-  <a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=AaratiMahato&label=Visitors&color=1422F7&style=flat" alt="Profile visitor count" />
-  </a>
+<a href="https://komarev.com/ghpvc/?username=alsiam">
+  <img align="right" src="https://komarev.com/ghpvc/?username=AaratiMahato&label=Visitors&color=1422F7&style=flat" alt="Profile visitor count" /></a>
 
   
 <h3 align="center">Passionate UI/UX Designer</h3>
