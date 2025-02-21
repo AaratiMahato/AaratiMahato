@@ -25,9 +25,9 @@
 </div> 
 
 <h2>💻 Tech Stack</h2>
-  <p align="center">
+  <p>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,figma,python,&perline=20")</a>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,figma,python,&perline=10"></a>
 </p>
 
 
