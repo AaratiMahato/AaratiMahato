@@ -23,23 +23,18 @@
  </a>
 </p> 
 
-<!-- <h2>💻 Tech Stack</h2>
+<h2>💻 Tech Stack</h2>
   <p align="center">
     <a href="https://git-scm.com/" target="_blank">
-    <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> </a>
-    <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
     <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img align="left" alt ="JS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg">
     <a href="https://www.python.org/" target="_blank"> <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> </a>
-    <a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> </a>
-    <a href="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/githubactions/githubactions-plain.svg" target="_blank"> <img align="left" alt="GitHub-Actions" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/githubactions/githubactions-plain.svg" /> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original.svg" /> </a>
-    <a href="https://www.vim.org/" target="_blank"> <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vim/vim-original.svg" /> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="Mysql" width="40px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg" /> </a>
-    <a href="https://www.vagrantup.com/" target="_blank"> <img align="left" alt="Mysql" width="30px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vagrant/vagrant-original.svg" /> </a>
-    
+    <a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" width="30px" style="background-color:grey;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> </a>    
   </br>
-</p> -->
+  </br>
+</p>
 
 
 <p align="center">
@@ -60,5 +55,5 @@
 </p>
 
 
-![Pawan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AaratiMahato&custom_title=Aarati%20Mahato's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Aarati's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AaratiMahato&custom_title=Aarati%20Mahato's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
