@@ -24,7 +24,7 @@
  </a>
 </div> 
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2>💻 Tech Stack</h2>
   <p align="center">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,git,figma,python,&perline=20")</a>
