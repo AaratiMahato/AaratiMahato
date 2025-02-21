@@ -2,18 +2,17 @@
   <a href="https://github.com/itsLuffie"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F71E&random=false&width=435&lines=Hi+There+👋,+It's+me+Aarati+Mahato"></a>
 </h1>
 
-<!-- Profile Image -->
-<p align="center"><img alt="User Avatar" src="image.png" width="845px"/>
-</p><br>
-
 <a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=AaratiMahato&label=Visitors&color=1422F7&style=flat" alt="Profile visitor count" /></a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=AaratiMahato&label=Visitors&color=1422F7&style=flat" alt="Profile visitor count" /></a></br>
+<!-- Profile Image -->
+<div>
+<img alt="User Avatar" src="image.png"/>
+</div>
 
-  
 <h3 align="center">Passionate UI/UX Designer</h3>
 
 
-<p align="center">
+<div align="center">
  <a href="https://www.aaratim.com.np/" target="_blank">
   <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="alsiam"/>
  </a>
@@ -23,20 +22,14 @@
  <a href="https://www.instagram.com/aarati_mahato_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
-</p> 
+</div> 
 
-<h2>💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack</h2>
   <p align="center">
-    <a href="https://git-scm.com/" target="_blank">
-    <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-    <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img align="left" alt ="JS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg">
-    <a href="https://www.python.org/" target="_blank"> <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> </a>
-    <a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" width="30px" style="background-color:grey;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> </a>    
-  </br>
-  </br>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,figma,python,&perline=20")</a>
 </p>
+
 
 
 <p align="center">
