@@ -3,7 +3,7 @@
 </h1>
 
 <!-- Profile Image -->
-<p align="center"><img alt="User Avatar" src="image.jpg" width="845px"/>
+<p align="center"><img alt="User Avatar" src="image.png" width="845px"/>
 </p><br>
 
 <a href="https://komarev.com/ghpvc/?username=alsiam">
